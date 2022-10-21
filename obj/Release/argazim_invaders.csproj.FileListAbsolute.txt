@@ -1,0 +1,57 @@
+C:\Users\beta\source\repos\argazim_invaders\bin\Release\argazim_invaders.exe.config
+C:\Users\beta\source\repos\argazim_invaders\bin\Release\argazim_invaders.exe
+C:\Users\beta\source\repos\argazim_invaders\bin\Release\argazim_invaders.pdb
+C:\Users\beta\source\repos\argazim_invaders\obj\Release\argazim_invaders.csproj.AssemblyReference.cache
+C:\Users\beta\source\repos\argazim_invaders\obj\Release\argazim_invaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\beta\source\repos\argazim_invaders\obj\Release\argazim_invaders.argazim_invaders.resources
+C:\Users\beta\source\repos\argazim_invaders\obj\Release\argazim_invaders.Properties.Resources.resources
+C:\Users\beta\source\repos\argazim_invaders\obj\Release\argazim_invaders.csproj.GenerateResource.cache
+C:\Users\beta\source\repos\argazim_invaders\obj\Release\argazim_invaders.csproj.CoreCompileInputs.cache
+C:\Users\beta\source\repos\argazim_invaders\obj\Release\argazim_invaders.exe
+C:\Users\beta\source\repos\argazim_invaders\obj\Release\argazim_invaders.pdb
+C:\Users\tomer\Desktop\argazim_invaders\obj\Release\argazim_invaders.csproj.AssemblyReference.cache
+C:\Users\tomer\Desktop\argazim_invaders\obj\Release\argazim_invaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomer\Desktop\argazim_invaders\obj\Release\argazim_invaders.argazim_invaders.resources
+C:\Users\tomer\Desktop\argazim_invaders\obj\Release\argazim_invaders.FormMain.resources
+C:\Users\tomer\Desktop\argazim_invaders\obj\Release\argazim_invaders.Properties.Resources.resources
+C:\Users\tomer\Desktop\argazim_invaders\obj\Release\argazim_invaders.csproj.GenerateResource.cache
+C:\Users\tomer\Desktop\argazim_invaders\obj\Release\argazim_invaders.csproj.CoreCompileInputs.cache
+C:\Users\tomer\Desktop\argazim_invaders\obj\Release\argazim_invaders.exe
+C:\Users\tomer\Desktop\argazim_invaders\obj\Release\argazim_invaders.pdb
+C:\Users\tomer\Desktop\argazim_invaders\bin\Release\argazim_invaders.exe.config
+C:\Users\tomer\Desktop\argazim_invaders\bin\Release\argazim_invaders.exe
+C:\Users\tomer\Desktop\argazim_invaders\bin\Release\argazim_invaders.pdb
+C:\Users\tomer\Desktop\argazim_invaders\obj\Release\argazim_invaders.menupopup.resources
+C:\Users\beta\Desktop\argazim_invaders\bin\Release\argazim_invaders.exe.config
+C:\Users\beta\Desktop\argazim_invaders\bin\Release\argazim_invaders.exe
+C:\Users\beta\Desktop\argazim_invaders\bin\Release\argazim_invaders.pdb
+C:\Users\beta\Desktop\argazim_invaders\obj\Release\argazim_invaders.csproj.AssemblyReference.cache
+C:\Users\beta\Desktop\argazim_invaders\obj\Release\argazim_invaders.csproj.SuggestedBindingRedirects.cache
+C:\Users\beta\Desktop\argazim_invaders\obj\Release\argazim_invaders.argazim_invaders.resources
+C:\Users\beta\Desktop\argazim_invaders\obj\Release\argazim_invaders.Properties.Resources.resources
+C:\Users\beta\Desktop\argazim_invaders\obj\Release\argazim_invaders.csproj.GenerateResource.cache
+C:\Users\beta\Desktop\argazim_invaders\obj\Release\argazim_invaders.csproj.CoreCompileInputs.cache
+C:\Users\beta\Desktop\argazim_invaders\obj\Release\argazim_invaders.exe
+C:\Users\beta\Desktop\argazim_invaders\obj\Release\argazim_invaders.pdb
+D:\argazim_invaders\bin\Release\argazim_invaders.exe.config
+D:\argazim_invaders\bin\Release\argazim_invaders.exe
+D:\argazim_invaders\bin\Release\argazim_invaders.pdb
+D:\argazim_invaders\obj\Release\argazim_invaders.csproj.AssemblyReference.cache
+D:\argazim_invaders\obj\Release\argazim_invaders.csproj.SuggestedBindingRedirects.cache
+D:\argazim_invaders\obj\Release\argazim_invaders.argazim_invaders.resources
+D:\argazim_invaders\obj\Release\argazim_invaders.Properties.Resources.resources
+D:\argazim_invaders\obj\Release\argazim_invaders.csproj.GenerateResource.cache
+D:\argazim_invaders\obj\Release\argazim_invaders.csproj.CoreCompileInputs.cache
+D:\argazim_invaders\obj\Release\argazim_invaders.exe
+D:\argazim_invaders\obj\Release\argazim_invaders.pdb
+D:\מכללת חולון\argazim_invaders\bin\Release\argazim_invaders.exe.config
+D:\מכללת חולון\argazim_invaders\bin\Release\argazim_invaders.exe
+D:\מכללת חולון\argazim_invaders\bin\Release\argazim_invaders.pdb
+D:\מכללת חולון\argazim_invaders\obj\Release\argazim_invaders.csproj.AssemblyReference.cache
+D:\מכללת חולון\argazim_invaders\obj\Release\argazim_invaders.csproj.SuggestedBindingRedirects.cache
+D:\מכללת חולון\argazim_invaders\obj\Release\argazim_invaders.argazim_invaders.resources
+D:\מכללת חולון\argazim_invaders\obj\Release\argazim_invaders.Properties.Resources.resources
+D:\מכללת חולון\argazim_invaders\obj\Release\argazim_invaders.csproj.GenerateResource.cache
+D:\מכללת חולון\argazim_invaders\obj\Release\argazim_invaders.csproj.CoreCompileInputs.cache
+D:\מכללת חולון\argazim_invaders\obj\Release\argazim_invaders.exe
+D:\מכללת חולון\argazim_invaders\obj\Release\argazim_invaders.pdb
